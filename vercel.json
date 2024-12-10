@@ -25,10 +25,7 @@
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
-        "DB_CONNECTION": "mysql",
-        "DB_HOST": "4gg.h.filess.io",
-        "DB_PORT": "3306",
-        "DB_DATABASE": "laravel_web_programming",
-        "DB_USERNAME": "root"
+        "DB_CONNECTION": "pgsql",
+        "DB_URL": "postgresql://postgres.whfeprpouknisqclraap:H5fzTptY0D0FcYx9@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
     }
 }
